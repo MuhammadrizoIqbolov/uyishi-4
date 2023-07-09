@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+}
+
+.main-content {
+    background-color: aliceblue; 
+    margin: 0 auto;
+    margin-top: 5px;
+    border-radius: 20px;
+    width:800px ;
+    
+}
+.main-content_box {
+    text-align: center;
+    margin-bottom: 20px;
+    justify-content: space-between;
+
+}
+h2{ 
+    color: rgb(241, 234, 124);
+}
+h3{
+    color: brown;
+}
